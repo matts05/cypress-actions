@@ -19,3 +19,4 @@ jobs:
 
       - name: Run E2E tests
         run: ${{ github.event.inputs.cli }}
+
